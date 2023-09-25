@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">Interested in applied cryptography esp. zero knowledge proofs, cyber-security, privacy enhancing technologies...</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0x471&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x471&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
@@ -48,11 +52,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/0x471/0x471/output/snake.svg" alt="Snake animation" />
 
 ###
